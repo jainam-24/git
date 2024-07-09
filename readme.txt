@@ -1,6 +1,6 @@
 Welcome to my project !!!
 
-Author: Jainam
+Author: Jainam Jain
 
 Email Id: jainampjain24@gmail.com
 
