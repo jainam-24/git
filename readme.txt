@@ -1,7 +1,7 @@
-Welcome to my project, I am Jainam Jain !!!
+Welcome to my project !!!
 
-Author: Jainam Padam Jain
+Author: Jainam Jain
 
 Email Id: jainampjain24@gmail.com
-
+	
 Twitter Handle: @Jainam24
